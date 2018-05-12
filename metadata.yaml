@@ -1,0 +1,36 @@
+_repo: Amy-in-Acadia--A-Story-for-Girls_35985
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pyle, Katharine
+    alias: Pyle, Katherine
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '1139'
+    url: http://www.gutenberg.org/2009/agents/1139
+    wikipedia: http://en.wikipedia.org/wiki/Katharine_Pyle
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reed, Helen Leah
+    deathdate: 1926
+    gutenberg_agent_id: '37330'
+    url: http://www.gutenberg.org/2009/agents/37330
+description: ''
+gutenberg_issued: '2011-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35985'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nova Scotia -- Description and travel -- Juvenile fiction'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Acadians -- History -- Juvenile fiction'
+title: 'Amy in Acadia: A Story for Girls'
+url: http://www.gutenberg.org/ebooks/35985
